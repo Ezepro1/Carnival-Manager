@@ -1,0 +1,25 @@
+Walele;arg;6;BTG;Faust;Venom;Johnny
+Sky;chi;4;QV;Unika;;
+manteca;arg;9;BTG;Ky;;
+Lean;arg;8;BTG;Axl;;
+Pastelpink;arg;5;BTG;Elphelt;;
+Booshy;chi;3;-;Baiken;;
+Sinsterray;arg;10;-;Sol;;
+MogekoK;chi;5;GS;Nagoriyuki;;
+oDeicida;uru;7;-;Ramlethal;;
+shawarmanol;arg;3;-;Leo;;
+TheDefender;arg;15;ROY;Potemkin;;
+Auletheia;chi;8;-;I-No;;
+Alka;arg;20;GGA;Millia;;
+Donfo;arg;12;INK;Zato-1;;
+Gury;chi;6;-;May;;
+Lena;uru;9;Wiwi;Chipp;;
+Discord;arg;4;PHT;Happy Chaos;;
+Ange;chi;11;XTS;Giovanna;;
+Darmi_SMT;arg;2;-;Anji;;
+erufu;uru;13;PFC;Goldlewis;;
+Gokudeira12;arg;1;-;Jack-O;;
+GoodNight*;chi;14;BT;Testament;;
+RESAKA;arg;17;INK;Bridget;;
+Jubilado Armado;arg;12;ZLG;Axl;Sin;
+pacha;arg;15;GGa;ABA;;
