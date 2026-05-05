@@ -1,2 +1,7 @@
+__pycache__/
+build/
+dist/
+*.spec
+*.lnk
 players.txt
 players.txtCEN
